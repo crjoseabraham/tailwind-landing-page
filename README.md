@@ -27,7 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Click here](https://your-solution-url.com)
+- [Live Demo](https://crjoseabraham.github.io/tailwind-landing-page/dist/index.html)
 
 ## My process
 
@@ -43,4 +44,4 @@ Users should be able to:
 ## Author
 
 - Website - [Jose Abraham Castillo](https://github.com/crjoseabraham)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/crjoseabraham)
+- Frontend Mentor - [@crjoseabraham](https://www.frontendmentor.io/profile/crjoseabraham)
