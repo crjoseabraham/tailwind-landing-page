@@ -43,4 +43,4 @@ Users should be able to:
 ## Author
 
 - Website - [Jose Abraham Castillo](https://github.com/crjoseabraham)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/crjoseabraham)
+- Frontend Mentor - [@crjosseabraham](https://www.frontendmentor.io/profile/crjoseabraham)
